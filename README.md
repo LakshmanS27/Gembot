@@ -98,6 +98,11 @@ GemBot is an AI-powered chatbot that combines intelligent conversational capabil
 - Implement reporting dashboards to visualize sentiment trends and interaction patterns.
 - Integrate voice input and output for enhanced user experience.
 
+## Website Screenshots
+![image](https://github.com/user-attachments/assets/933ba858-7889-47e2-b743-d88cc51bcfb9)
+![image](https://github.com/user-attachments/assets/75cb2d0d-0e7f-4692-ae63-1d1cfb47fc18)
+![image](https://github.com/user-attachments/assets/6b17b2f5-fae9-4e35-a19e-9db73353b478)
+
 ## Contributing
 
 Contributions are welcome! Please follow these steps:
