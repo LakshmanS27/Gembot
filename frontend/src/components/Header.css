@@ -1,0 +1,26 @@
+/* src/components/Header.css */
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.header .logo {
+  display: flex;
+  align-items: center;
+}
+
+.header .logo-image {
+  height: 30px;
+  margin-right: 10px;
+}
+
+.header .logo-text {
+  font-size: 20px;
+  font-weight: bold;
+}
